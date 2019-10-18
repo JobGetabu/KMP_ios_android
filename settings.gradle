@@ -1,0 +1,3 @@
+include ':app'
+include ':sharedNative'
+rootProject.name='Mpp'
